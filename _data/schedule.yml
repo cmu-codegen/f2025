@@ -196,7 +196,7 @@ schedule:
     title: Inference-time algorithms for code, RL
     theme: Inference / Learning
     kind: Discussion
-    date: 2025-09-30T15:30
+    date: 2025-10-02T15:30
     # slides: "/s2024/static_files/codegen_s2024_10_inference.pdf"
     # main:
     #   - url: https://arxiv.org/abs/2304.05128
@@ -307,8 +307,8 @@ schedule:
     #     title: "Repoformer: Selective Retrieval for Repository-Level Code Completion"
 
   - number: 21
-    title: Voting holiday (No class)
-    theme: Vote if you can!
+    title: Vote if you can!
+    theme: Voting holiday (No class)
     kind: No class
     date: 2025-11-04T15:30
 
@@ -316,7 +316,7 @@ schedule:
     title: Project Hours 2
     theme: Course project
     kind: Course project
-    date: 2024-03-28T15:30
+    date: 2025-11-06T15:30
     links:
       - url: /static_files/11.pdf
         name: slides
@@ -409,7 +409,7 @@ schedule:
     title: Thanksgiving (No class)
     theme: Thanksgiving (No class)
     kind: No class
-    date: 2024-04-11T15:30
+    date: 2025-11-27T15:30
     links:
       - url: /static_files/21.pdf
         name: slides 
@@ -421,7 +421,7 @@ schedule:
     title: Final project presentations
     theme: Final project presentations
     kind: Final project presentations
-    date: 2025-12-09T15:30
+    date: 2025-12-02T15:30
     # links:
     #   - url: /static_files/22.pdf
     #     name: slides 
@@ -433,7 +433,7 @@ schedule:
     title: Final project presentations
     theme: Final project presentations
     kind: Final project presentations
-    date: 2025-12-11T15:30
+    date: 2025-12-04T15:30
     # links:
     #   - url: /static_files/22.pdf
     #     name: slides 
