@@ -9,31 +9,28 @@ The course is separated into two high-level parts: (1) algorithmic and practical
 course_disclaimer: "<em>This course is intended for 2nd year (or higher) graduate students. Familiarity with neural language models is recommended.</em>"
 
 # Logistics
-course_semester: "Spring 2024"
+course_semester: "Fall 2025"
 course_dept: LTI
 course_num: 11891
 classes: TR 3:30pm - 4:50pm
-room: WEH 4625
+room: GHC 4301
 office_hours: See Piazza
 schoolname: "Carnegie Mellon University"
 schoolurl: "https://www.cmu.edu/"
 
 # Instructors
 instructors:
-  - name: Sean Welleck
-    profile_pic: /_images/site/welleck.png
-    webpage: https://wellecks.com
   - name: Daniel Fried
     profile_pic: /_images/site/daniel.jpeg
     webpage: https://dpfried.github.io
 
 teaching_assistants:
-  - name: Nikitha Rao
-    profile_pic: /_images/site/nikitha_rao.png
-    webpage: https://raonikitha.github.io/
-  - name: Zhiruo (Zora) Wang
-    profile_pic: /_images/site/zhiruo_zora_wang.jpeg
-    webpage: https://zorazrw.github.io/ 
+  - name: Atharva Naik
+    profile_pic: /_images/site/atharva_naik.jpeg
+    webpage: https://atharva-naik.github.io/
+  - name: Yiqing Xie
+    profile_pic: /_images/site/yiqing_xie.jpg
+    webpage: https://yiqingxyq.github.io/
 
 
 # Policies

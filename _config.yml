@@ -1,7 +1,7 @@
 #baseurl: "" 
 #url: "http://localhost" 
 
-baseurl: "/s2024"
+baseurl: "/f2025"
 url: "https://cmu-codegen.github.io/"
 
 # Build settings
