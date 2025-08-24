@@ -25,7 +25,7 @@ schedule:
     #   - url: /static_files/2.pdf
     #     name: slides
 
-    suggested:
+    main:
       - url: https://arxiv.org/abs/2001.08361
         title: "Scaling Laws for Neural Language Models"
       - url: https://arxiv.org/abs/2203.15556
