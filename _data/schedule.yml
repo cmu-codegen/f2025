@@ -9,6 +9,8 @@ schedule:
     #     name: slides
     main:
       - url: https://arxiv.org/abs/2108.07732
+        title: Program Synthesis with Large Language Models
+      - url: https://arxiv.org/abs/2107.03374
         title: Evaluating Large Language Models Trained on Code
       - url: https://people.inf.ethz.ch/suz/publications/natural.pdf
         title: On the Naturalness of Software
