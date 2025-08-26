@@ -34,18 +34,18 @@ teaching_assistants:
 
 
 # Policies
-policies:
-  - If you are assigned to lead a discussion and you are unable to, it is your responsibility to find a replacement. 
-    The procedure is to make a post on Piazza stating who the replacement will be, with the post made no later than 24 hours prior to the associated course session.
-    If a replacement is not made according to this procedure, you will receive a score of zero for the discussion.
-  - For a discussion that you are not leading, you are given 4 'late credits'. 
-    A late credit extends the deadline for the discussion's assignment by 24 hours.
-    Once you have used all 4 late credits, all subsequent discussion assignments will receive a score of zero if they are submitted after the start of the associate course session.
-  - For the final project, there are no credits or extensions available.
+# policies:
+#   - If you are assigned to lead a discussion and you are unable to, it is your responsibility to find a replacement. 
+#     The procedure is to make a post on Piazza stating who the replacement will be, with the post made no later than 24 hours prior to the associated course session.
+#     If a replacement is not made according to this procedure, you will receive a score of zero for the discussion.
+#   - For a discussion that you are not leading, you are given 4 'late credits'. 
+#     A late credit extends the deadline for the discussion's assignment by 24 hours.
+#     Once you have used all 4 late credits, all subsequent discussion assignments will receive a score of zero if they are submitted after the start of the associate course session.
+#   - For the final project, there are no credits or extensions available.
   
 # Links
 links:
   - name: Piazza
-    url: https://piazza.com/
+    url: https://piazza.com/cmu/fall2025/11891/home
   - name: Canvas
-    url: https://canvas.cmu.edu/
+    url: https://canvas.cmu.edu/courses/49580
