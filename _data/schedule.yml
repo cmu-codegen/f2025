@@ -39,6 +39,8 @@ schedule:
         title: "Go smol or go home"
       - url: https://arxiv.org/abs/2310.10631
         title: "Llemma: An Open Language Model for Mathematics"
+      - url: https://ai.meta.com/research/publications/the-llama-3-herd-of-models/
+        title: "The Llama 3 Herd of Models"
     # slides: "/s2024/static_files/codegen_s2024_2_scalinglaws.pdf"
 
 
