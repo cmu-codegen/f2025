@@ -34,6 +34,11 @@ schedule:
         title: "Scaling Data-Constrained Language Models"
       - url: https://arxiv.org/abs/2102.01293 
         title: "Scaling Laws for Transfer"
+    suggested:
+      - url: https://www.harmdevries.com/post/model-size-vs-compute-overhead/
+        title: "Go smol or go home"
+      - url: https://arxiv.org/abs/2310.10631
+        title: "Llemma: An Open Language Model for Mathematics"
     # slides: "/s2024/static_files/codegen_s2024_2_scalinglaws.pdf"
 
 
