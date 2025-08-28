@@ -236,9 +236,6 @@ schedule:
     links:
       - url: /static_files/11.pdf
         name: slides
-    main:
-      - url: https://arxiv.org
-        title: "N/A"
 
   - number: 12
     title: Responding to execution feedback
@@ -265,9 +262,9 @@ schedule:
     # links:
     #   - url: /static_files/12.pdf
     #     name: slides 
-    # main:
-    #   - url: https://dl.acm.org/doi/10.1145/3318162
-    #     title: "Automated Program Repair"
+    main:
+      - url: ""
+        title: "TBD"
 
   - number: 14
     title: Test generation
@@ -294,18 +291,12 @@ schedule:
     theme: Fall break
     kind: Fall break
     date: 2025-10-14T15:30
-    main:
-      - url: https://arxiv.org
-        title: "N/A"
 
   - number: 16
     title: Fall break
     theme: Fall break
     kind: Fall break
     date: 2025-10-16T15:30
-    main:
-      - url: https://arxiv.org
-        title: "N/A"
 
   - number: 17
     title: Agents
@@ -387,9 +378,6 @@ schedule:
     links:
       - url: /static_files/11.pdf
         name: slides
-    main:
-      - url: https://arxiv.org
-        title: "N/A"
 
   - number: 23
     title: "Guest lecture by Yiqing Xie"
@@ -399,9 +387,9 @@ schedule:
     # links:
     #   - url: /static_files/12.pdf
     #     name: slides 
-    # main:
-    #   - url: https://dl.acm.org/doi/10.1145/3318162
-    #     title: "Automated Program Repair"
+    main:
+      - url: ""
+        title: "TBD"
 
   - number: 24
     title: Pragmatic aspects of code generation
@@ -485,12 +473,6 @@ schedule:
     theme: Thanksgiving (No class)
     kind: No class
     date: 2025-11-27T15:30
-    links:
-      - url: /static_files/21.pdf
-        name: slides 
-    main:
-      - url: https://arxiv.org
-        title: "N/A"
 
   - number: 29
     title: Final project presentations
