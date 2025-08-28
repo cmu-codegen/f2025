@@ -115,7 +115,7 @@ schedule:
     # slides: "/s2024/static_files/codegen_s2024_6_evaluation.pdf"
 
   - number: 6
-    title: New frontiers in benchmarking
+    title: Evaluation beyond correctness
     theme: Evaluation
     kind: Discussion
     date: 2025-09-11T15:30
@@ -125,8 +125,16 @@ schedule:
     main:
       # - url: https://arxiv.org/abs/2305.18584
       #   title: "CoEditor: Leveraging Contextual Changes for Multi-Round Code Auto-Editing"
-      - url: "arxiv.org"
-        title: TBD
+      # - url: "arxiv.org"
+      #   title: TBD
+      - url: https://arxiv.org/abs/2401.15963
+        title: NoFunEval 
+      - url: https://arxiv.org/pdf/2407.11470v2
+        title: RACE 
+      - url: https://arxiv.org/abs/2407.14044
+        title: ECCO 
+      - url: https://arxiv.org/abs/2408.01605
+        title: CyberSecEval3 
 
   - number: 7
     title: Data
@@ -163,14 +171,16 @@ schedule:
     main:
       - url: https://arxiv.org/abs/2207.14502
         title: "Language Models Can Teach Themselves to Program Better"
-      - url: https://arxiv.org/abs/2306.11644
-        title: "Textbooks Are All You Need"
-      - url: ""
-        title: TBD
-      # - url: https://arxiv.org/abs/2304.12244
-      #   title: 
+      - url: https://arxiv.org/abs/2502.14948
+        title: "Learning to Solve and Verify: A Self-Play Framework for Code and Test Generation"
+      - url: https://arxiv.org/abs/2312.02120
+        title: "Magicoder: Empowering Code Generation with OSS-Instruct"
+      - url: "WizardLM: Empowering large pre-trained language models to follow complex instructions"
+        title: "https://arxiv.org/abs/2304.12244"
       # - url: https://openreview.net/forum?id=maRYffiUpI
       #   title: "Improving Code Style for Accurate Code Generation"
+      # - url: https://arxiv.org/abs/2306.11644
+      #   title: "Textbooks Are All You Need"
 
   - number: 9
     title: Inference-time algorithms for code
@@ -231,18 +241,21 @@ schedule:
         title: "N/A"
 
   - number: 12
-    title: Inference-time algorithms for code, RL
+    title: Responding to execution feedback
     theme: Inference / Learning
     kind: Discussion
     date: 2025-10-02T15:30
     # slides: "/s2024/static_files/codegen_s2024_10_inference.pdf"
-    # main:
-    #   - url: https://arxiv.org/abs/2304.05128
-    #     title: "Teaching Large Language Models to Self-Debug"
-    #   - url: https://arxiv.org/abs/2306.14898
-    #     title: "InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback"
-    #   - url: https://arxiv.org/abs/2306.09896
-    #     title: "Is Self-Repair a Silver Bullet for Code Generation?"
+    main:
+      - url: https://arxiv.org/abs/2304.05128
+        title: "Teaching Large Language Models to Self-Debug"
+      - url: https://arxiv.org/abs/2306.14898
+        title: "InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback"
+      - url: https://arxiv.org/abs/2410.02089
+        title: "RLEF: Grounding Code LLMs in Execution Feedback with Reinforcement Learning"
+      - url: https://arxiv.org/abs/2306.09896
+        title: "Is Self-Repair a Silver Bullet for Code Generation?"
+  
 
   - number: 13
     title: "Guest lecture by Atharva Naik"
@@ -257,7 +270,7 @@ schedule:
     #     title: "Automated Program Repair"
 
   - number: 14
-    title: Software engineering
+    title: Test generation
     theme: Software engineering
     kind: Discussion
     date: 2025-10-09T15:30
@@ -265,9 +278,16 @@ schedule:
     #   - url: /static_files/12.pdf
     #     name: slides 
     # main:
-    #   - url: https://dl.acm.org/doi/10.1145/3318162
-    #     title: "Automated Program Repair"
-
+      # - url: https://dl.acm.org/doi/10.1145/3318162
+      #   title: "Automated Program Repair"
+    main:
+      - url: https://ieeexplore.ieee.org/abstract/document/10298372
+        title: CAT-LM: Training Language Models on Aligned Code And Tests
+      - url: https://arxiv.org/abs/2410.00752
+        title: TestGenEval: A Real World Unit Test Generation and Test Comprehension Benchmark
+      - url: TBD
+        title: TBD
+      # maybe HardTests, https://arxiv.org/pdf/2505.24098?
 
   - number: 15
     title: Fall break
@@ -292,12 +312,18 @@ schedule:
     theme: Agents
     kind: Lecture
     date: 2025-10-21T15:30
+    main:
+      - url: https://arxiv.org
+        title: "TBD"
 
   - number: 18
     title: Agents
     theme: Agents
     kind: Discussion
     date: 2025-10-23T15:30
+    main:
+      - url: https://arxiv.org
+        title: "TBD"
 
   - number: 19
     title: Long context and retrieval in code
@@ -307,24 +333,26 @@ schedule:
     # links:
     #   - url: /static_files/14.pdf
     #     name: slides
-    # main:
-    #   - url: https://arxiv.org/abs/2112.05682
-    #     title: "Self-attention Does Not Need O(n2) Memory"
-    #   - url: https://arxiv.org/abs/2309.16039
-    #     title: "Effective Long-Context Scaling of Foundation Models"
-    #   - url: https://arxiv.org/abs/2207.05987
-    #     title: "DocPrompting: Generating Code by Retrieving the Docs"
-    # suggested:
-    #   - url: https://arxiv.org/abs/2205.14135
-    #     title: "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness"
-    #   - url: https://arxiv.org/abs/2310.01889
-    #     title: "Ring Attention with Blockwise Transformers for Near-Infinite Context"
-    #   - url: https://arxiv.org/abs/2206.12839
-    #     title: "Repository-Level Prompt Generation for Large Language Models of Code"
-    #   - url: https://acl2023-retrieval-lm.github.io/ 
-    #     title: "ACL 2023 Tutorial: Retrieval-based Language Models and Applications"
-    #   - url: https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf
-    #     title: "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context"
+    main:
+      - url: https://arxiv.org/abs/2112.05682
+        title: "Self-attention Does Not Need O(n2) Memory"
+      - url: https://arxiv.org/abs/2309.16039
+        title: "Effective Long-Context Scaling of Foundation Models"
+      - url: https://arxiv.org/abs/2207.05987
+        title: "DocPrompting: Generating Code by Retrieving the Docs"
+      - url: https://arxiv.org/abs/2310.11248
+        title: CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion
+    suggested:
+      - url: https://arxiv.org/abs/2205.14135
+        title: "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness"
+      - url: https://arxiv.org/abs/2310.01889
+        title: "Ring Attention with Blockwise Transformers for Near-Infinite Context"
+      - url: https://arxiv.org/abs/2206.12839
+        title: "Repository-Level Prompt Generation for Large Language Models of Code"
+      - url: https://acl2023-retrieval-lm.github.io/ 
+        title: "ACL 2023 Tutorial: Retrieval-based Language Models and Applications"
+      - url: https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf
+        title: "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context"
     # slides: "/s2024/static_files/codegen_s2024_19_long_context.pdf"
 
   - number: 20
@@ -335,14 +363,15 @@ schedule:
     # links:
     #   - url: /static_files/17.pdf
     #     name: slides 
-    # main:
-    #   - url: https://arxiv.org/abs/2310.11248
-    #     title: "CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion"
-    #   - url: https://arxiv.org/abs/2402.12317 
-    #     title: "ARKS: Active Retrieval in Knowledge Soup for Code Generation"
-    # suggested:
-    #   - url: https://arxiv.org/abs/2403.10059 
-    #     title: "Repoformer: Selective Retrieval for Repository-Level Code Completion"
+    main:
+      # - url: https://arxiv.org/abs/2310.11248
+      #   title: "CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion"
+      - url: https://arxiv.org/abs/2402.12317 
+        title: "ARKS: Active Retrieval in Knowledge Soup for Code Generation"
+      - url: https://arxiv.org/abs/2403.10059 
+        title: "Repoformer: Selective Retrieval for Repository-Level Code Completion"
+      - url: https://arxiv.org/abs/2508.04865
+        title: "Agnostics: Learning to Code in Any Programming Language via Reinforcement with a Universal Learning Environment"
 
   - number: 21
     title: Vote if you can!
@@ -364,7 +393,7 @@ schedule:
 
   - number: 23
     title: "Guest lecture by Yiqing Xie"
-    theme: 
+    theme: Agentive data
     kind: Guest speaker
     date: 2025-11-11T15:30
     # links:
@@ -382,14 +411,16 @@ schedule:
     # links:
     #   - url: /static_files/13.pdf
     #     name: slides
-    # main:
-    #   - url: https://dl.acm.org/doi/abs/10.1145/3586030
-    #     title: "Grounded Copilot: How Programmers Interact with Code-Generating Models, OOPSLA 2023"
-    #   - url: https://arxiv.org/abs/2208.06213
-    #     title: "What is it like to program with AI?, PPIG 2022"
-    # suggested:
-    #   - url: https://people.inf.ethz.ch/suz/publications/natural.pdf
-    #     title: "On the Naturalness of Software. ICSE 2012"
+    main:
+      - url: https://dl.acm.org/doi/abs/10.1145/3586030
+        title: "Grounded Copilot: How Programmers Interact with Code-Generating Models, OOPSLA 2023"
+      - url: https://arxiv.org/abs/2208.06213
+        title: "What is it like to program with AI?, PPIG 2022"
+      - url: https://arxiv.org/abs/2404.02806
+        title: The RealHumanEval: Evaluating Large Language Models' Abilities to Support Programmers
+    suggested:
+      - url: https://people.inf.ethz.ch/suz/publications/natural.pdf
+        title: "On the Naturalness of Software. ICSE 2012"
     # slides: "/s2024/static_files/codegen_s2024_14_interaction.pdf"
 
   - number: 25
@@ -400,11 +431,15 @@ schedule:
     # links:
     #   - url: /static_files/14.pdf
     #     name: slides 
-    # suggested:
-    #   - url: https://arxiv.org/abs/2306.04556
-    #     title: "StudentEval: A Benchmark of Student-Written Prompts for Large Language Models of Code, Arxiv 2023"
-    #   - url: https://www.khoury.northeastern.edu/~arjunguha/main/papers/2024-charlie.html
-    #     title: "How Beginning Programmers and Code LLMs (Mis)read Each Other"
+    main:
+      - url: https://arxiv.org/abs/2306.04556
+        title: "StudentEval: A Benchmark of Student-Written Prompts for Large Language Models of Code, Arxiv 2023"
+      - url: https://www.khoury.northeastern.edu/~arjunguha/main/papers/2024-charlie.html
+        title: "How Beginning Programmers and Code LLMs (Mis)read Each Other"
+      - url: https://arxiv.org/abs/2507.15003
+        title: "The Rise of AI Teammates in Software Engineering (SE) 3.0: How Autonomous Coding Agents Are Reshaping Software Engineering"
+      - url: TBD
+        title: TBD
     #   - url: https://arxiv.org/abs/2303.00732
     #     title: "R-U-SURE? Uncertainty-Aware Code Suggestions by Maximizing Utility across Random User Intents"
     #   - url: https://arxiv.org/abs/2205.12422
@@ -418,11 +453,13 @@ schedule:
     # links:
     #   - url: /static_files/18.pdf
     #     name: slides 
-    # main:
-    #   - url: https://arxiv.org/abs/2209.07753
-    #     title: "Code as Policies: Language Model Programs for Embodied Control"
-    #   - url: https://viper.cs.columbia.edu
-    #     title: "ViperGPT: Visual Inference via Python Execution for Reasoning"
+    main:
+      - url: https://arxiv.org/abs/2211.10435
+        title: "PAL: Program-aided Language Models"
+      - url: https://arxiv.org/abs/2209.07753
+        title: "Code as Policies: Language Model Programs for Embodied Control"
+      - url: https://viper.cs.columbia.edu
+        title: "ViperGPT: Visual Inference via Python Execution for Reasoning"
 
   - number: 27
     title: Neural theorem proving
