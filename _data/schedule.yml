@@ -282,9 +282,9 @@ schedule:
       #   title: "Automated Program Repair"
     main:
       - url: https://ieeexplore.ieee.org/abstract/document/10298372
-        title: CAT-LM: Training Language Models on Aligned Code And Tests
+        title: "CAT-LM: Training Language Models on Aligned Code And Tests"
       - url: https://arxiv.org/abs/2410.00752
-        title: TestGenEval: A Real World Unit Test Generation and Test Comprehension Benchmark
+        title: "TestGenEval: A Real World Unit Test Generation and Test Comprehension Benchmark"
       - url: TBD
         title: TBD
       # maybe HardTests, https://arxiv.org/pdf/2505.24098?
@@ -341,7 +341,7 @@ schedule:
       - url: https://arxiv.org/abs/2207.05987
         title: "DocPrompting: Generating Code by Retrieving the Docs"
       - url: https://arxiv.org/abs/2310.11248
-        title: CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion
+        title: "CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion"
     suggested:
       - url: https://arxiv.org/abs/2205.14135
         title: "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness"
@@ -417,7 +417,7 @@ schedule:
       - url: https://arxiv.org/abs/2208.06213
         title: "What is it like to program with AI?, PPIG 2022"
       - url: https://arxiv.org/abs/2404.02806
-        title: The RealHumanEval: Evaluating Large Language Models' Abilities to Support Programmers
+        title: "The RealHumanEval: Evaluating Large Language Models' Abilities to Support Programmers"
     suggested:
       - url: https://people.inf.ethz.ch/suz/publications/natural.pdf
         title: "On the Naturalness of Software. ICSE 2012"
