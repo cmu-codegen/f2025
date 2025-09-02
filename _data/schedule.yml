@@ -66,7 +66,7 @@ schedule:
         title: "CodeT5+: Open Code Large Language Models for Code Understanding and Generation"
       - url: https://arxiv.org/abs/2207.14255
         title: "Efficient Training of Language Models to Fill in the Middle"
-    # slides: "/s2024/static_files/codegen_s2024_3_pretraining.pdf"
+    slides: "/f2025/static_files/codegen_f2025_3_pretraining.pdf"
 
   - number: 4
     title: Finetuning for code
@@ -216,6 +216,8 @@ schedule:
         title: "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
 
     suggested:
+      - url: https://arxiv.org/abs/2203.14465
+        title: "STaR: Bootstrapping Reasoning With Reasoning"
       - url: https://arxiv.org/abs/2301.13816
         title: "Execution-based Code Generation using Deep Reinforcement Learning"
       - url: https://arxiv.org/abs/2207.10397
