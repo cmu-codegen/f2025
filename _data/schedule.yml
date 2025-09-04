@@ -173,10 +173,10 @@ schedule:
         title: "Language Models Can Teach Themselves to Program Better"
       - url: https://arxiv.org/abs/2502.14948
         title: "Learning to Solve and Verify: A Self-Play Framework for Code and Test Generation"
-      - url: https://arxiv.org/abs/2312.02120
-        title: "Magicoder: Empowering Code Generation with OSS-Instruct"
-      - url: "WizardLM: Empowering large pre-trained language models to follow complex instructions"
-        title: "https://arxiv.org/abs/2304.12244"
+      # - url: https://arxiv.org/abs/2312.02120
+      #   title: "Magicoder: Empowering Code Generation with OSS-Instruct"
+      - url: "https://arxiv.org/abs/2304.12244"
+        title: "WizardLM: Empowering large pre-trained language models to follow complex instructions"
       # - url: https://openreview.net/forum?id=maRYffiUpI
       #   title: "Improving Code Style for Accurate Code Generation"
       # - url: https://arxiv.org/abs/2306.11644
