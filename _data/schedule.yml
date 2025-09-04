@@ -394,7 +394,7 @@ schedule:
         title: "TBD"
 
   - number: 24
-    title: Pragmatic aspects of code generation
+    title: "Guest lecture by Valerie Chen"
     theme: Human interaction
     kind: Lecture
     date: 2025-11-13T15:30
@@ -402,15 +402,17 @@ schedule:
     #   - url: /static_files/13.pdf
     #     name: slides
     main:
-      - url: https://dl.acm.org/doi/abs/10.1145/3586030
-        title: "Grounded Copilot: How Programmers Interact with Code-Generating Models, OOPSLA 2023"
-      - url: https://arxiv.org/abs/2208.06213
-        title: "What is it like to program with AI?, PPIG 2022"
-      - url: https://arxiv.org/abs/2404.02806
-        title: "The RealHumanEval: Evaluating Large Language Models' Abilities to Support Programmers"
-    suggested:
-      - url: https://people.inf.ethz.ch/suz/publications/natural.pdf
-        title: "On the Naturalness of Software. ICSE 2012"
+      - url: TBD
+        title: TBD
+    #   - url: https://dl.acm.org/doi/abs/10.1145/3586030
+    #     title: "Grounded Copilot: How Programmers Interact with Code-Generating Models, OOPSLA 2023"
+    #   - url: https://arxiv.org/abs/2208.06213
+    #     title: "What is it like to program with AI?, PPIG 2022"
+    #   - url: https://arxiv.org/abs/2404.02806
+    #     title: "The RealHumanEval: Evaluating Large Language Models' Abilities to Support Programmers"
+    # suggested:
+    #   - url: https://people.inf.ethz.ch/suz/publications/natural.pdf
+    #     title: "On the Naturalness of Software. ICSE 2012"
     # slides: "/s2024/static_files/codegen_s2024_14_interaction.pdf"
 
   - number: 25
