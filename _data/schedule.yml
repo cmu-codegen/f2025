@@ -112,7 +112,7 @@ schedule:
       - url: https://arxiv.org/abs/2406.15877
         title: "BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions"
 
-    # slides: "/s2024/static_files/codegen_s2024_6_evaluation.pdf"
+    slides: "/f2025/static_files/codegen_f2025_5_evaluation.pdf"
 
   - number: 6
     title: Evaluation beyond correctness
