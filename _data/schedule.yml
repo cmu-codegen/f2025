@@ -158,7 +158,7 @@ schedule:
         title: "The Stack: 3 TB of permissively licensed source code"
       - url: https://arxiv.org/abs/2305.06161
         title: "StarCoder: May the source be with you"
-    # slides: "/s2024/static_files/codegen_s2024_8_data.pdf"
+    slides: "/f2025/static_files/codegen_f2025_8_data.pdf"
 
   - number: 8
     title: Synthetic data
