@@ -202,6 +202,7 @@ schedule:
         title: "LEVER: Learning to Verify Language-to-Code Generation with Execution"
       - url: https://arxiv.org/abs/2407.21787
         title: "Large Language Monkeys: Scaling Inference Compute with Repeated Sampling"
+    slides: "/f2025/static_files/codegen_f2025_9_inference.pdf"
 
   - number: 10
     title: Learning from code-related feedback
