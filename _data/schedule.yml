@@ -215,14 +215,14 @@ schedule:
     main:
       - url: https://arxiv.org/abs/2501.12948
         title: "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+      - url: https://arxiv.org/abs/2207.10397
+        title: "LEVER: Learning to Verify Language-to-Code Generation with Execution"
+      - url: https://arxiv.org/abs/2301.13816
+        title: "Execution-based Code Generation using Deep Reinforcement Learning"
 
     suggested:
       - url: https://arxiv.org/abs/2203.14465
         title: "STaR: Bootstrapping Reasoning With Reasoning"
-      - url: https://arxiv.org/abs/2301.13816
-        title: "Execution-based Code Generation using Deep Reinforcement Learning"
-      - url: https://arxiv.org/abs/2207.10397
-        title: "LEVER: Learning to Verify Language-to-Code Generation with Execution"
       - url: "https://arxiv.org/abs/2312.06585"
         title: "Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models"
       - url: "https://arxiv.org/abs/2303.16749"
