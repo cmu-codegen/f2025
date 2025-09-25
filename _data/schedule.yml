@@ -229,7 +229,7 @@ schedule:
         title: "Improving Code Generation by Training with Natural Language Feedback"
       - url: https://arxiv.org/abs/2502.18449
         title: "SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution"
-    # slides: "/s2024/static_files/codegen_s2024_5_feedback.pdf"
+    slides: "/s2024/static_files/codegen_f2025_10_feedback.pdf"
 
   - number: 11
     title: Project hours I
@@ -397,7 +397,7 @@ schedule:
   - number: 24
     title: "Guest lecture by Valerie Chen"
     theme: Human interaction
-    kind: Lecture
+    kind: Guest speaker
     date: 2025-11-13T15:30
     # links:
     #   - url: /static_files/13.pdf
