@@ -266,8 +266,12 @@ schedule:
     #   - url: /static_files/12.pdf
     #     name: slides 
     main:
-      - url: ""
-        title: "TBD"
+      - url: "https://arxiv.org/abs/2409.19801"
+        title: "CRScore: Grounding Automated Evaluation of Code Review Comments in Code Claims and Smells"
+      - url: "https://arxiv.org/abs/2405.13565"
+        title: "AI-Assisted Assessment of Coding Practices in Modern Code Review"
+      - url: "https://arxiv.org/abs/2507.11687"
+        title: "MetaLint: Generalizable Idiomatic Code Quality Analysis through Instruction-Following and Easy-to-Hard Generalization"
 
   - number: 14
     title: Test generation
