@@ -289,8 +289,8 @@ schedule:
         title: "CAT-LM: Training Language Models on Aligned Code And Tests"
       - url: https://arxiv.org/abs/2410.00752
         title: "TestGenEval: A Real World Unit Test Generation and Test Comprehension Benchmark"
-      - url: TBD
-        title: TBD
+      - url: https://arxiv.org/abs/2406.12952
+        title: "SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents"
       # maybe HardTests, https://arxiv.org/pdf/2505.24098?
 
   - number: 15
