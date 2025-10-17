@@ -306,7 +306,7 @@ schedule:
     date: 2025-10-16T15:30
 
   - number: 17
-    title: Agents
+    title: Agents for issue solving
     theme: Agents
     kind: Lecture
     date: 2025-10-21T15:30
@@ -329,7 +329,7 @@ schedule:
 
 
   - number: 18
-    title: Agents
+    title: Agents beyond issue solving
     theme: Agents
     kind: Discussion
     date: 2025-10-23T15:30
