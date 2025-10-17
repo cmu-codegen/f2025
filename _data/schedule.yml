@@ -320,8 +320,12 @@ schedule:
     kind: Discussion
     date: 2025-10-23T15:30
     main:
-      - url: https://arxiv.org
-        title: "TBD"
+      - url: https://arxiv.org/abs/2412.01769
+        title: "Commit0: Library Generation from Scratch"
+      - url: https://arxiv.org/abs/2502.14499
+        title: "MLGym: A New Framework and Benchmark for Advancing AI Research Agents"
+      - url: https://arxiv.org/abs/2502.13069
+        title: "Interactive Agents to Overcome Ambiguity in Software Engineering"
 
   - number: 19
     title: Long context and retrieval in code
