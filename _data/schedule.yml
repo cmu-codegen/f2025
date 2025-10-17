@@ -311,8 +311,22 @@ schedule:
     kind: Lecture
     date: 2025-10-21T15:30
     main:
-      - url: https://arxiv.org
-        title: "TBD"
+      - url: https://arxiv.org/abs/2310.06770
+        title: "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?"
+      - url: https://arxiv.org/abs/2405.15793
+        title: "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering"
+      - url: https://arxiv.org/abs/2412.21139
+        title: "Training Software Engineering Agents and Verifiers with SWE-Gym"
+    suggested:
+      - url: https://arxiv.org/abs/2407.01489
+        title: "Agentless: Demystifying LLM-based Software Engineering Agents"
+      - url: https://arxiv.org/abs/2502.18449
+        title: "SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution"
+      - url: https://arxiv.org/abs/2407.16741
+        title: "OpenHands: An Open Platform for AI Software Developers as Generalist Agents"
+      - url: https://ai.meta.com/research/publications/cwm-an-open-weights-llm-for-research-on-code-generation-with-world-models/
+        title: "CWM: An Open-Weights LLM for Research on Code Generation with World Models"
+
 
   - number: 18
     title: Agents
