@@ -272,6 +272,7 @@ schedule:
         title: "AI-Assisted Assessment of Coding Practices in Modern Code Review"
       - url: "https://arxiv.org/abs/2507.11687"
         title: "MetaLint: Generalizable Idiomatic Code Quality Analysis through Instruction-Following and Easy-to-Hard Generalization"
+    slides: "/f2025/static_files/codegen_f2025_14_software_engineering.pdf"
 
   - number: 14
     title: Test generation
@@ -326,6 +327,7 @@ schedule:
         title: "OpenHands: An Open Platform for AI Software Developers as Generalist Agents"
       - url: https://ai.meta.com/research/publications/cwm-an-open-weights-llm-for-research-on-code-generation-with-world-models/
         title: "CWM: An Open-Weights LLM for Research on Code Generation with World Models"
+    slides: "/f2025/static_files/codegen_f2025_17_agents.pdf"
 
 
   - number: 18
