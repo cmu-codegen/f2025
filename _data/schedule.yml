@@ -385,7 +385,7 @@ schedule:
       # - url: https://arxiv.org/abs/2310.11248
       #   title: "CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion"
       - url: https://arxiv.org/abs/2402.12317 
-        title: "EVOR: Evolving Retrieval for Code Generation
+        title: "EVOR: Evolving Retrieval for Code Generation"
       - url: https://arxiv.org/abs/2403.10059 
         title: "Repoformer: Selective Retrieval for Repository-Level Code Completion"
       # - url: https://arxiv.org/abs/2508.04865
