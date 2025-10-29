@@ -423,12 +423,16 @@ schedule:
     theme: Human interaction
     kind: Guest speaker
     date: 2025-11-13T15:30
+    main:
+    - url:  https://openreview.net/pdf?id=hGaWq5Buj7 
+      title: "The RealHumanEval: Evaluating Large Language Models' Abilities to Support Programmers"
+    - url:  https://openreview.net/pdf?id=9bYOqwtAud
+      title: "Copilot Arena: A Platform for Code LLM Evaluation in the Wild"
+    - url: https://arxiv.org/abs/2510.09801
+      title: "How can we assess human-agent interactions? Case studies in software agent design"
     # links:
     #   - url: /static_files/13.pdf
     #     name: slides
-    main:
-      - url: TBD
-        title: TBD
     #   - url: https://dl.acm.org/doi/abs/10.1145/3586030
     #     title: "Grounded Copilot: How Programmers Interact with Code-Generating Models, OOPSLA 2023"
     #   - url: https://arxiv.org/abs/2208.06213
