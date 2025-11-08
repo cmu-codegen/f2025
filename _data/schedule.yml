@@ -415,8 +415,15 @@ schedule:
     #   - url: /static_files/12.pdf
     #     name: slides 
     main:
-      - url: ""
-        title: "TBD"
+      - title: "RepoST: Scalable Repository-Level Coding Environment Construction with Sandbox Testing"
+        url: https://arxiv.org/abs/2503.07358
+      - title: "R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents"
+        url: https://arxiv.org/pdf/2504.07164
+      - title: "SWE-smith: Scaling Data for Software Engineering Agents"
+        url: https://arxiv.org/abs/2504.21798
+    suggested:
+      - title: "Training Software Engineering Agents and Verifiers with SWE-Gym"
+        url: https://arxiv.org/abs/2412.21139
 
   - number: 24
     title: "Guest lecture by Valerie Chen"
