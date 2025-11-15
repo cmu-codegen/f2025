@@ -466,8 +466,6 @@ schedule:
         title: "How Beginning Programmers and Code LLMs (Mis)read Each Other"
       - url: https://arxiv.org/abs/2507.15003
         title: "The Rise of AI Teammates in Software Engineering (SE) 3.0: How Autonomous Coding Agents Are Reshaping Software Engineering"
-      - url: TBD
-        title: TBD
     #   - url: https://arxiv.org/abs/2303.00732
     #     title: "R-U-SURE? Uncertainty-Aware Code Suggestions by Maximizing Utility across Random User Intents"
     #   - url: https://arxiv.org/abs/2205.12422
