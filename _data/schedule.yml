@@ -437,6 +437,7 @@ schedule:
       title: "Copilot Arena: A Platform for Code LLM Evaluation in the Wild"
     - url: https://arxiv.org/abs/2510.09801
       title: "How can we assess human-agent interactions? Case studies in software agent design"
+    slides: "/f2025/static_files/codegen_f2025_chen.pdf"
     # links:
     #   - url: /static_files/13.pdf
     #     name: slides
@@ -449,7 +450,6 @@ schedule:
     # suggested:
     #   - url: https://people.inf.ethz.ch/suz/publications/natural.pdf
     #     title: "On the Naturalness of Software. ICSE 2012"
-    # slides: "/s2024/static_files/codegen_s2024_14_interaction.pdf"
 
   - number: 25
     title: What is it like to program with AI?
