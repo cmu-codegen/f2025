@@ -424,6 +424,7 @@ schedule:
     suggested:
       - title: "Training Software Engineering Agents and Verifiers with SWE-Gym"
         url: https://arxiv.org/abs/2412.21139
+    slides: "/f2025/static_files/codegen_f2025_xie.pdf"
 
   - number: 24
     title: "Guest lecture by Valerie Chen"
