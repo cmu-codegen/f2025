@@ -499,6 +499,8 @@ schedule:
     main:
       - url: https://arxiv.org/abs/2009.03393
         title: "Generative Language Modeling for Automated Theorem Proving"
+      - url: https://arxiv.org/abs/2507.23726
+        title: "Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving"
     suggested:
       - url: https://github.com/wellecks/ntptutorial
         title: "A tutorial on neural theorem proving"
