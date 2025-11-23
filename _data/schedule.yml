@@ -499,13 +499,15 @@ schedule:
     main:
       - url: https://arxiv.org/abs/2009.03393
         title: "Generative Language Modeling for Automated Theorem Proving"
+      - url: https://arxiv.org/abs/2210.12283
+        title: "Draft, Sketch, and Prove"
+      - url: https://arxiv.org/abs/2502.07640
+        title: "Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving"
       - url: https://arxiv.org/abs/2507.23726
         title: "Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving"
     suggested:
       - url: https://github.com/wellecks/ntptutorial
         title: "A tutorial on neural theorem proving"
-    #   - url: https://arxiv.org/abs/2210.12283
-    #     title: "Draft, Sketch, and Prove"
     #   - url: https://arxiv.org/abs/2310.00656
     #     title: "Lego-Prover"
     # slides: "/s2024/static_files/codegen_s2024_24_theorem_proving.pdf"
