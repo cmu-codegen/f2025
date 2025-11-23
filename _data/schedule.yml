@@ -496,11 +496,11 @@ schedule:
     # links:
     #   - url: /static_files/20.pdf
     #     name: slides
-    # suggested:
-    #   - url: https://github.com/wellecks/ntptutorial
-    #     title: "A tutorial on neural theorem proving"
-    #   - url: https://arxiv.org/pdf/2009.03393.pdf
-    #     title: "Generative Language Modeling for Automated Theorem Proving"
+    main:
+      - url: https://github.com/wellecks/ntptutorial
+        title: "A tutorial on neural theorem proving"
+      - url: https://arxiv.org/abs/2009.03393
+        title: "Generative Language Modeling for Automated Theorem Proving"
     #   - url: https://arxiv.org/abs/2210.12283
     #     title: "Draft, Sketch, and Prove"
     #   - url: https://arxiv.org/abs/2310.00656
