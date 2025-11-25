@@ -510,7 +510,7 @@ schedule:
         title: "A tutorial on neural theorem proving"
     #   - url: https://arxiv.org/abs/2310.00656
     #     title: "Lego-Prover"
-    # slides: "/s2024/static_files/codegen_s2024_24_theorem_proving.pdf"
+    slides: "/f2025/static_files/codegen_f2025_formal_mathematics.pdf"
 
   - number: 28
     title: Thanksgiving (No class)
